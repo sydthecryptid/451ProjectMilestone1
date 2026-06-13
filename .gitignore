@@ -1,0 +1,5 @@
+.venv/ProjectMilestone1/yelp_*.JSON
+ProjectMilestone1/yelp_review.JSON
+ProjectMilestone1/yelp_user.JSON
+.venv/
+.venv
